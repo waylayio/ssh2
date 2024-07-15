@@ -1,5 +1,5 @@
 {
-  "name": "ssh2",
+  "name": "@waylay/ssh2",
   "version": "1.15.0",
   "author": "Brian White <mscdex@mscdex.net>",
   "description": "SSH2 client and server modules written in pure JavaScript for node.js",
@@ -39,11 +39,11 @@
   "licenses": [
     {
       "type": "MIT",
-      "url": "http://github.com/mscdex/ssh2/raw/master/LICENSE"
+      "url": "http://github.com/@waylay/ssh2/raw/master/LICENSE"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "http://github.com/mscdex/ssh2.git"
+    "url": "http://github.com/@waylay/ssh2.git"
   }
 }
