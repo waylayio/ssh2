@@ -1,4 +1,4 @@
 node_modules
 .eslintcache
 package-lock.json
-lib/protocol/crypto/**
+lib/protocol/crypto/build/**
